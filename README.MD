@@ -343,11 +343,6 @@ If you encounter any issues or have questions:
 
 This application is designed as a **supplementary mental health tool** and is **not a substitute for professional medical advice, diagnosis, or treatment**. Always seek the advice of qualified health providers with any questions you may have regarding a mental health condition.
 
-If you are in crisis or experiencing suicidal thoughts, please contact:
-- **National Suicide Prevention Lifeline**: 988
-- **Crisis Text Line**: Text HOME to 741741
-- **Emergency Services**: 911
-
 ---
 
 <div align="center">
