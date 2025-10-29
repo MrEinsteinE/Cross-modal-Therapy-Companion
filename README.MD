@@ -357,24 +357,4 @@ If you are in crisis or experiencing suicidal thoughts, please contact:
 [⬆ Back to Top](#-therapy-companion---ai-powered-wellbeing-application)
 
 </div>
-```
 
-## **Step 3: Git Commands to Upload**
-
-After creating the `.gitignore` and `README.md` files:
-
-```bash
-# Initialize Git repository (if not already done)
-git init
-
-# Add all files (gitignore will automatically exclude the right files)
-git add .
-
-# Commit your changes
-git commit -m "Initial commit: Therapy Companion application"
-
-# Add your remote repository
-git remote add origin https://github.com/yourusername/therapy-companion.git
-
-# Push to GitHub
-git push -u origin main
